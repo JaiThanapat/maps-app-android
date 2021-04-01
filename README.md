@@ -1,5 +1,7 @@
 # Maps App Android
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6d49bff791e4a95bc2dd7e1b30a7423)](https://app.codacy.com/gh/JaiThanapat/maps-app-android?utm_source=github.com&utm_medium=referral&utm_content=JaiThanapat/maps-app-android&utm_campaign=Badge_Grade_Settings)
+
 This repo provides an example app for Android devices called Maps App that can be used as a
 starter for your organization's mapping app built with [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/). You can use the Maps App as is, or extend it using the ArcGIS Runtime SDK for Android.
 
